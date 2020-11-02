@@ -272,7 +272,7 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
   tiny_weather_forecast!
   turbolinks (~> 5)
-  twitter
+  twitter (= 7.0.0)
   tzinfo-data
   web-console (>= 3.3.0)
   webdrivers

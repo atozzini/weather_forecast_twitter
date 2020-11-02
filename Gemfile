@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'dotenv-rails', '2.7.6'
 
-gem 'twitter'
+gem 'twitter', '7.0.0'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
