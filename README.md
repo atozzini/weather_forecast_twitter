@@ -1,24 +1,11 @@
-# README
+# POST WEATHER FORECAST TWITTER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This API is used to post a tweet with the weather forecast of a chosen city.
 
-Things you may want to cover:
+## Usage
 
-* Ruby version
+To use this API, you need to send a post request to this link:
 
-* System dependencies
+    $ localhost:3000/twitts/twittar?city=[your_city]
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In the [your city] parameter you need to replace it with the name of the city where you want to know the weather forecast.
